@@ -1,6 +1,8 @@
 <template>
   <div class="">
-    Hello Index
+    <h1 class="text-blue-500 text-3xl items-center text-center justify-center flex h-screen">
+    Hello world!
+  </h1>
   </div>
 </template>
 
