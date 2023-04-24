@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="text-3xl" @click="setLocalstorage">
-      Set LocalStorage
+      Set LocalStorage add 
     </div>
   </div>
 </template>
