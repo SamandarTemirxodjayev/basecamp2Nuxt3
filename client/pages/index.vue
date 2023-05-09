@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="hi">
     <h1 class="text-blue-500 text-3xl items-center text-center justify-center flex h-screen">
     Hello world!
   </h1>
